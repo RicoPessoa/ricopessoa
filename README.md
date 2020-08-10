@@ -1,4 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi dear 👋, I'm Ricardo Pessoa</h1>
+<h3 align="center">Technical leader of a squad focused on digital products</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricopessoa" alt="ricopessoa" /> </p>
+
+- 🔭 I am currently working at [Banco Mercedes-Benz]
+- 🌱 I'm currently learning mobile
+- 👯 I'm looking to collaborate on web systems
+- 🤔 I'm looking for help with react native
+- 💬 Ask me about .net
+- 📫 How to contact me **ricardoandre.pessoa@gmail.com**
+- ⚡ Fun fact: lego lover
+
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ricopessoa&show_icons=true" alt="ricopessoa"/> <br>
+<a href="https://twitter.com/ricopessoa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ricopessoa" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/ricardopessoa" target="blank">   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricopessoa" height="20" width="20" /></a>
+<a href="https://fb.com/ricopessoa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ricopessoa" height="20" width="20" /></a>
+<a href="https://instagram.com/ricopessoa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ricopessoa" height="20" width="20" /></a>
+</p>
+
+
 
 <!--
 **RicoPessoa/ricopessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
