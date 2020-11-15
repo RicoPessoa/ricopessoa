@@ -20,7 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
 </p>
 
-<p align="center">
+<p align="center"></br>
 <img src="https://github-readme-stats.vercel.app/api?username=ricopessoa&show_icons=true" alt="ricopessoa"/> <br>
 <a href="https://twitter.com/ricopessoa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ricopessoa" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ricardopessoa" target="blank">   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricopessoa" height="20" width="20" /></a>
