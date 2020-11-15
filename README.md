@@ -14,9 +14,11 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="20" height="20"/>
 </p>
 
+https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ricopessoa&show_icons=true" alt="ricopessoa"/> <br>
 <a href="https://twitter.com/ricopessoa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ricopessoa" height="20" width="20" /></a>
